@@ -1,48 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-1.png" tvg-name="CCTV-1", CCTV-1 综合
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-1.png" tvg-name="CCTV-1", CCTV-1 综合 4K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-2.png" tvg-name="CCTV-2", CCTV-2 财经
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226220/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-3.png" tvg-name="CCTV-3", CCTV-3 综艺
-http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-4.png" tvg-name="CCTV-4", CCTV-4 综合
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226539/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-5.png" tvg-name="CCTV-5", CCTV-5 体育
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226587/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv5+.png" tvg-name="CCTV-5+", CCTV-5+ 体育赛事
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV1.png" tvg-name="CCTV-1", CCTV-1 综合
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV2.png" tvg-name="CCTV-2", CCTV-2 财经 NO
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV3.png" tvg-name="CCTV-3", CCTV-3 综艺 NO
+http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV4.png" tvg-name="CCTV-4", CCTV-4 综合 NO
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV5.png" tvg-name="CCTV-5", CCTV-5 体育 NO
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV5+.png" tvg-name="CCTV-5+", CCTV-5+ 体育赛事 NO
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226253/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-6.png" tvg-name="CCTV-6", CCTV-6 电影
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV6.png" tvg-name="CCTV-6", CCTV-6 电影 NO
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-7.png" tvg-name="CCTV-7", CCTV-7 国防军事
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226432/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-8.png" tvg-name="CCTV-8", CCTV-8 电视剧
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-9.png" tvg-name="CCTV-9", CCTV-9 记录
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV7.png" tvg-name="CCTV-7", CCTV-7 国防军事 NO
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV8.png" tvg-name="CCTV-8", CCTV-8 电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV9.png" tvg-name="CCTV-9", CCTV-9 记录 NO
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226434/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-10.png" tvg-name="CCTV-10", CCTV-10 科教
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226164/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-11.png" tvg-name="CCTV-11", CCTV-11 戏曲
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV10.png" tvg-name="CCTV-10", CCTV-10 科教 NO
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV11.png" tvg-name="CCTV-11", CCTV-11 戏曲 NO
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226541/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-12.png" tvg-name="CCTV-12", CCTV-12 道德与法治
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV12.png" tvg-name="CCTV-12", CCTV-12 道德与法治 NO
 http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-13.png" tvg-name="CCTV-13", CCTV-13 新闻
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226438/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-14.png" tvg-name="CCTV-14", CCTV-14 少儿
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV13.png" tvg-name="CCTV-13", CCTV-13 新闻 NO
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV14.png" tvg-name="CCTV-14", CCTV-14 少儿 NO
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226166/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-15.png" tvg-name="CCTV-15", CCTV-15 音乐
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV15.png" tvg-name="CCTV-15", CCTV-15 音乐 NO
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226616/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-16.png" tvg-name="CCTV-16", CCTV-16 奥林匹克
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV16.png" tvg-name="CCTV-16", CCTV-16 奥林匹克 NO
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/cctv-17.png" tvg-name="CCTV-17", CCTV-17 农业
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV16" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV16.png" tvg-name="CCTV16",CCTV-16 奥林匹克 4K NO
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV17.png" tvg-name="CCTV-17", CCTV-17 农业 NO
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226407/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="" tvg-name="CCTV-央视台球", CCTV-央视台球
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="" tvg-name="湖南卫视", 湖南卫视
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226193/1.m3u8
-#EXTINF:-1 tvg-id="CCTV" tvg-logo="" tvg-name="浙江卫视", 浙江卫视
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226144/1.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV4K.png" tvg-name="CCTV-4K", CCTV-4K NO
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="CCTV8K" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CCTV8K.png" tvg-name="CCTV8K", CCTV-8K NO
+http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="CCTV" tvg-id="CGTN" tvg-logo="https://qiongjiul.github.io/Live-broadcast-source/image/CGTN.png" tvg-name="CGTN" ,CGTN
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
